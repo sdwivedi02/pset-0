@@ -32,13 +32,13 @@ public class ProblemSet0 {
           * Print APCS in block letters to the console.
           */
 
-         System.out.println("   ##    ######  ######## ########");
-         System.out.println("  #  #   #     # #        #       ");
-         System.out.println(" #    #  #     # #        #       ");
-         System.out.println("######## ######  #        ########");
-         System.out.println("#      # #       #               #");
-         System.out.println("#      # #       #               #");
-         System.out.println("#      # #       ######## ########");
+         //System.out.println("   ##    ######  ######## ########");
+         //System.out.println("  #  #   #     # #        #       ");
+         //System.out.println(" #    #  #     # #        #       ");
+         //System.out.println("######## ######  #        ########");
+         //System.out.println("#      # #       #               #");
+         //System.out.println("#      # #       #               #");
+         //System.out.println("#      # #       ######## ########");
 
          /*
           * Exercise 3.
@@ -46,7 +46,7 @@ public class ProblemSet0 {
           * Print a quoted message to the console.
           */
 
-         //System.out.println(""The answer's quite simple", the professor said. "Just think outside the box!"");
+         System.out.println("\n\"The answer's quite simple\", the professor said. \"Just think outside the box!\"");
 
          /*
           * Exercise 4.
